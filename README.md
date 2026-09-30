@@ -4,6 +4,7 @@
 
 <a href="https://github.com/omair25-ozi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E75B6&center=true&vCenter=true&width=640&lines=LLM+evaluation+%26+RLHF+data+quality;Building+graders+that+can't+be+gamed;English+%C2%B7+Hindi+%C2%B7+Urdu+%C2%B7+Marathi;Open+to+remote+AI+evaluation+roles" alt="Typing intro" /></a>
 
+<a href="https://omair25-ozi.github.io"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/omair-mohammed-44b7015a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:omairgamer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=omair25-ozi&style=for-the-badge&color=2E75B6&label=PROFILE+VIEWS" alt="Profile views" />
