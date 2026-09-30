@@ -11,8 +11,6 @@
 
 ---
 
-<img align="right" src="assets/1.gif" width="300" alt="Animated coder at his desk, typing and sipping coffee" />
-
 ### `$ whoami`
 
 ```python
@@ -34,8 +32,6 @@ class MohammedOmair:
 - 🔎 5+ years rating search, ads and LLM output for Appen, TELUS and UHRS
 - 🧪 Built an agent-eval environment whose grader catches **12 / 12** wrong solutions
 
-<br clear="right" />
-
 ### `$ ls ~/stack`
 
 <p>
@@ -43,7 +39,7 @@ class MohammedOmair:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/RLHF-1a1b27?style=flat-square&labelColor=1a1b27&color=70A5FD" alt="RLHF" />
+  <img src="https://img.shields.io/badge/RLHF-1a1b27?style=flat-square&color=70A5FD" alt="RLHF" />
   <img src="https://img.shields.io/badge/SFT-1a1b27?style=flat-square&color=70A5FD" alt="SFT" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-1a1b27?style=flat-square&color=70A5FD" alt="LLM Evaluation" />
   <img src="https://img.shields.io/badge/Data_Annotation-1a1b27?style=flat-square&color=70A5FD" alt="Data Annotation" />
